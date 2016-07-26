@@ -1,0 +1,10 @@
+C:\Users\Hemant.COMPRO\Documents\Visual Studio 2013\Projects\CSharp-Photo-Album-LINQ-XML\PhotoAlbum\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Hemant.COMPRO\Documents\Visual Studio 2013\Projects\CSharp-Photo-Album-LINQ-XML\PhotoAlbum\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Hemant.COMPRO\Documents\Visual Studio 2013\Projects\CSharp-Photo-Album-LINQ-XML\PhotoAlbum\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Hemant.COMPRO\Documents\Visual Studio 2013\Projects\CSharp-Photo-Album-LINQ-XML\PhotoAlbum\obj\Debug\PhotoAlbum.Album.resources
+C:\Users\Hemant.COMPRO\Documents\Visual Studio 2013\Projects\CSharp-Photo-Album-LINQ-XML\PhotoAlbum\obj\Debug\PhotoAlbum.Login.resources
+C:\Users\Hemant.COMPRO\Documents\Visual Studio 2013\Projects\CSharp-Photo-Album-LINQ-XML\PhotoAlbum\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Hemant.COMPRO\Documents\Visual Studio 2013\Projects\CSharp-Photo-Album-LINQ-XML\PhotoAlbum\obj\Debug\PhotoAlbum.csproj.GenerateResource.Cache
+C:\Users\Hemant.COMPRO\Documents\Visual Studio 2013\Projects\CSharp-Photo-Album-LINQ-XML\PhotoAlbum\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Hemant.COMPRO\Documents\Visual Studio 2013\Projects\CSharp-Photo-Album-LINQ-XML\PhotoAlbum\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Hemant.COMPRO\Documents\Visual Studio 2013\Projects\CSharp-Photo-Album-LINQ-XML\PhotoAlbum\obj\Debug\PhotoAlbum.csprojResolveAssemblyReference.cache
